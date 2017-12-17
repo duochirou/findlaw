@@ -4,6 +4,6 @@ import sys
 import os
 
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-execute(("scrapy crawl findlaw -L WARNING").split())
+execute(("scrapy crawl findlaw").split())
 #scrapy crawl quotes -o quotes.json
 # scrapy crawl quotes -o quotes.jl

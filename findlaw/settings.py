@@ -73,9 +73,9 @@ DOWNLOADER_MIDDLEWARES = {
 #ITEM_PIPELINES = {
 #    'findlaw.pipelines.FindlawPipeline': 300,
 #}
-ITEM_PIPELINES = {
-    'findlaw.pipelines.JsonWriterPipeline': 300,
-}
+# ITEM_PIPELINES = {
+#     'findlaw.pipelines.JsonWriterPipeline': 300,
+# }
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See http://doc.scrapy.org/en/latest/topics/autothrottle.html
