@@ -1,0 +1,16 @@
+README.md
+setup.py
+findlaw/__init__.py
+findlaw/items.py
+findlaw/main.py
+findlaw/middlewares.py
+findlaw/pipelines.py
+findlaw/settings.py
+findlaw/spiders/__init__.py
+findlaw/spiders/findlaw.py
+findlaw/spiders/findlaw15.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
