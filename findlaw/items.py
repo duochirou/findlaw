@@ -17,5 +17,5 @@ class QA(scrapy.Item):
     qTitle = scrapy.Field()
     qTag = scrapy.Field()
     qText = scrapy.Field()
-    aText = scrapy.Field()
 
+    aText = scrapy.Field()
